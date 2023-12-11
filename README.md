@@ -13,7 +13,7 @@
 💬 Ask me about C++, backend, databases, and data science...
  
 <div align="center"> 
-  <a href="mailto:israel.eo.cs">
+  <a href="mailto:israel.eo.cs@outlook.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/israel-efraim-oliveira" target="_blank">
