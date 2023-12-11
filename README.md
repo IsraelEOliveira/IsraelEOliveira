@@ -21,8 +21,7 @@
   </a>
 </div>
  
-<h2 align="center">⚒️ Stacks ⚒️</h2>
-<br/>
+<h3 align="center">⚒️ Stacks ⚒️</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,c,python,haskell,java,typescript,nodejs,r,mysql,mongodb,firebase,git,linux,heroku" /><br>
     <img src="https://skillicons.dev/icons?i=qt,react,vue,html,css,tailwind" />
