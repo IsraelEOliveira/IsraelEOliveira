@@ -27,6 +27,11 @@
     <img src="https://skillicons.dev/icons?i=qt,react,vue,html,css,tailwind" />
 </div>
 
+<h3 align="center">⚡ Stats ⚡</h3>
+<div align=center>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=israeleoliveira&show_icons=true&locale=en&layout=compact" alt="israeleoliveira" />
+</div>
+
 <!--
 **IsraelEOliveira/IsraelEOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
